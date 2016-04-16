@@ -1,14 +1,14 @@
 name:                dropload-cli
-version:             0.1.0.0
-synopsis:            Initial project template from stack
+version:             0.1.0
+synopsis:            A CLI interface to my dropload service
 description:         Please see README.md
-homepage:            https://github.com/githubuser/dropload-cli#readme
+homepage:            https://github.com/kthelgason/dropload-cli#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
-category:            Web
+author:              Kári Tristan Helgason
+maintainer:          kthelgason@gmail.com
+copyright:           2016 Kári Tristan Helgason
+category:            CLI
 build-type:          Simple
 -- extra-source-files:
 cabal-version:       >=1.10
